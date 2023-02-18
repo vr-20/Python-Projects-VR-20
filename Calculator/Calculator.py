@@ -10,7 +10,7 @@ operator = input("Enter an operator from '+', '-', '*', '/', '%', '^', '**' : ")
 # checking if the operator inputted is from "+-*/%^**" or not. If not, it asks for the operator input again.
 
 while operator not in "+-*/%^**": 
-        operator = input("Please enter any one operator from '+', '-', '*', '/', '%', '^', '**' : ")
+    operator = input("Please enter any one operator from '+', '-', '*', '/', '%', '^', '**' : ")
 
 # function to perform calculation on the integers based on the operator inputted.
 
