@@ -1,2 +1,2 @@
 # Python-Projects-VR-20
-Hello there! Welcome! You can find all the Python projects built by me in this repository. Thanks for dropping by!
+Hello there! Welcome! You'll find all the Python projects / Data Analysis projects done by me in this repository. Thanks for dropping by!
